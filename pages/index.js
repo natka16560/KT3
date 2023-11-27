@@ -1,8 +1,8 @@
 import Head from "next/head";
-import Home from "./main/Home";
-import About from "./main/About";
-import Contact from "./main/Contact";
-import Footer from "./main/Footer";
+import Home from "../components/Home";
+import About from "../components/About";
+import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 
 const Index = () => {
     return (
